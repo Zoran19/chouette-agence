@@ -90,7 +90,7 @@ a:hover {
 }
 
 .texture-paper::before {
-    /*background: url("img/texture-paper.png");*/
+    background: url("img/texture-paper.png");
     background-size: 280px 280px;
 }
 
@@ -644,14 +644,12 @@ h1,
 h2,
 h3,
 h4,
-h5,
-h6,
-p,
 label,
 .btn,
 a {
     font-family: "helvetica";
     font-weight: 400;
+
     
 }
 
